@@ -1,2 +1,2 @@
-#HR Analysis Dashboard – Excel Project
+# HR Analysis Dashboard – Excel Project
 ## This project analyzes HR data to track employee attrition, job satisfaction, and workforce distribution using Microsoft Excel. The dashboard includes KPIs such as Attrition Rate, Active Employees, and Age-wise Attrition analysis. Pivot Tables, formulas, and interactive charts were used to generate meaningful HR insights and support data-driven decision-making.
